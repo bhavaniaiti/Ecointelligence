@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Ecointelligence/static/css/main.e2c60e94.css",
+    "main.js": "/Ecointelligence/static/js/main.d88c47c5.js",
+    "static/js/453.c18bd8e7.chunk.js": "/Ecointelligence/static/js/453.c18bd8e7.chunk.js",
+    "static/media/about3.png": "/Ecointelligence/static/media/about3.1e369221c0b219847c74.png",
+    "static/media/service1.png": "/Ecointelligence/static/media/service1.49e59ebfc63e8cc5746d.png",
+    "static/media/about1.png": "/Ecointelligence/static/media/about1.a9aa0e9e0a164e756c76.png",
+    "static/media/service2.png": "/Ecointelligence/static/media/service2.8adae04f400b7400cf99.png",
+    "static/media/about2.png": "/Ecointelligence/static/media/about2.6fb58db599980310b9d5.png",
+    "static/media/service3.png": "/Ecointelligence/static/media/service3.0fd0528c73642299b2df.png",
+    "static/media/BG.png": "/Ecointelligence/static/media/BG.2f0f559df9a27fdf95e7.png",
+    "index.html": "/Ecointelligence/index.html",
+    "main.e2c60e94.css.map": "/Ecointelligence/static/css/main.e2c60e94.css.map",
+    "main.d88c47c5.js.map": "/Ecointelligence/static/js/main.d88c47c5.js.map",
+    "453.c18bd8e7.chunk.js.map": "/Ecointelligence/static/js/453.c18bd8e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2c60e94.css",
+    "static/js/main.d88c47c5.js"
+  ]
+}
